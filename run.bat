@@ -1,0 +1,3 @@
+@echo off
+echo 正在启动视觉注意力热力图分析Web应用...
+python app.py
